@@ -1,3 +1,4 @@
-﻿Diplomado Usach
+# Diplomado Usach
  
- probando merge a develop
+ Probando merge a develop, 
+ ahora se modifica el permiso a Jesus, se deja como member en la organizacion
